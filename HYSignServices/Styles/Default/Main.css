@@ -1,0 +1,10 @@
+﻿body
+{
+    background:url(../../Images/Shared/welcome.gif) no-repeat;
+    background-attachment:scroll;
+    background-position:top;
+}
+html
+{
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../../Images/Shared/welcome.gif', sizingMethod='scale');
+}

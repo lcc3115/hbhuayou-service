@@ -1,0 +1,10 @@
+H:\HYSignServices\HYSignServices\bin\HYSignServices.dll
+H:\HYSignServices\HYSignServices\bin\HYSignServices.pdb
+H:\HYSignServices\HYSignServices\obj\Debug\HYSignServices.dll
+H:\HYSignServices\HYSignServices\obj\Debug\HYSignServices.pdb
+H:\HYSignServices\HYSignServices\obj\Debug\HYSignServices.csprojResolveAssemblyReference.cache
+D:\ProjectWorkSpeace\HYSignServices\HYSignServices\bin\HYSignServices.dll
+D:\ProjectWorkSpeace\HYSignServices\HYSignServices\bin\HYSignServices.pdb
+D:\ProjectWorkSpeace\HYSignServices\HYSignServices\obj\Debug\HYSignServices.csprojResolveAssemblyReference.cache
+D:\ProjectWorkSpeace\HYSignServices\HYSignServices\obj\Debug\HYSignServices.dll
+D:\ProjectWorkSpeace\HYSignServices\HYSignServices\obj\Debug\HYSignServices.pdb

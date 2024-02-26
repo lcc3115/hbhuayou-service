@@ -1,0 +1,4 @@
+H:\HYSignServices\HYSignServices\bin\x64\Debug\HYSignServices.dll
+H:\HYSignServices\HYSignServices\bin\x64\Debug\HYSignServices.pdb
+H:\HYSignServices\HYSignServices\obj\x64\Debug\HYSignServices.dll
+H:\HYSignServices\HYSignServices\obj\x64\Debug\HYSignServices.pdb

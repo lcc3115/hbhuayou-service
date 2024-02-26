@@ -1,0 +1,51 @@
+﻿body
+{
+	height: 108px;
+}
+
+#divBg
+{
+	background: url('../../images/ico/logo_bg.jpg');
+	
+	height: 108px;
+    margin-bottom: 0px;
+}
+
+#prjTitle
+{
+	float: left;
+	font-size: 52px;
+	font-family: 宋体;
+	color: #2C517B;
+	font-weight: 900;
+	margin-top: 8px;
+	margin-left: 8px;
+}
+
+#divLogo
+{
+	width: 92px;
+	height: 45px;
+	margin-top: 12px;
+	float: left;
+	background: url(../../Images/Top/CRM.jpg) no-repeat;
+}
+#divControl
+{
+	margin-top: 30px;
+	float: right;
+	margin-right: 100px;
+}
+
+
+#loginRole 
+{
+	float:left;
+	height:20px;
+}
+
+#spanCurTime
+{
+	margin-right:47px;
+	float:right;
+}

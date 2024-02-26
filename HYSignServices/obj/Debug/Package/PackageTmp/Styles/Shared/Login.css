@@ -1,0 +1,115 @@
+﻿body
+{
+	background: #216AC1 url(../../Images/Login/login_bg.gif) repeat-x;
+}
+/*登录面板样式*/
+#login_panel
+{
+	position: absolute;
+	left: 50%;
+	margin-left: -283px;
+	top: 50%;
+	margin-top: -176px;
+	height: 353px;
+	width: 567px;
+}
+/*登录面板顶部样式*/
+#top
+{
+	height: 116px;
+	background: url(../../Images/Login/login_top.gif) no-repeat;
+}
+
+/*登录面板中间样式*/
+#middle
+{
+	height: 119px;
+}
+#middle #left
+{
+	float: left;
+	height: 100%;
+	width: 112px;
+	background: url(../../Images/Login/m_left.gif) no-repeat;
+}
+#middle #center
+{
+	float: left;
+	width: 286px;
+	height: 119px;
+	background:url(../../Images/Login/m_center.gif) no-repeat;
+}
+#middle #right
+{
+	float: left;
+	width: 169px;
+	height: 119px;
+	background: #BDC6CB;
+}
+#middle #right #r_top
+{
+	float:left;
+	background: url(../../Images/Login/r_top_loginBtn.gif) no-repeat;
+}
+#middle #right #r_top input
+{
+	cursor: pointer;
+	width: 83px;
+	height: 83px;
+}
+
+#middle #right #r_buttom
+{
+	width: 83px;
+	height: 36px;
+	float:left;
+	background: url(../../Images/Login/r_buttom.gif) no-repeat;
+}
+#middle #right #r_right
+{
+	width: 86px;
+	height: 119px;
+	float:right;
+	background: url(../../Images/Login/r_right.gif) no-repeat;
+}
+
+/*登录面板底部样式*/
+#buttom
+{
+	height: 118px;
+	background: url(../../Images/Login/login_buttom_bg.gif) repeat-x;
+}
+#buttom .left
+{
+	height: 100%;
+	width: 7px;
+	background: url(../../Images/Login/buttom_left.gif) no-repeat;
+}
+#buttom .right
+{
+	height: 100%;
+	width: 6px;
+	background: url(../../Images/Login/buttom_right.gif) no-repeat;
+}
+/*登录表格样式*/
+#tblLogin
+{
+	margin-top:5px;
+}
+#tblLogin tr
+{
+	height:21px;
+	line-height:21px;
+}
+#tblLogin input
+{
+	width:140px;
+	height:21px;
+	padding-left:25px;
+	background-color:transparent;
+	border-width:0px;
+}
+#tblLogin img
+{
+	cursor:pointer;
+}
